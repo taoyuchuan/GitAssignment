@@ -1,1 +1,7 @@
-#answers for questions
+(a) 3
+(b) 09/21/2016 12:43PM (the time I do my first commit and push. if this does not count, you last modified time is 09/15/2016 10:29AM)
+(c) Sword.java 2;    Weapon.java 1;   BasicWeapon.java 1;   WeaponFactory.java 1;   RoleGame.java 1    
+(d) git log shows the commit logs with different options while git status lists the files you have changes and those you still need to add or commit
+(e) git log --follow RoleGame.java
+(f) git log --all --grep='file'
+(g) git log --author="Alice" --since="2016-09-01" --until="2016-09-16"
